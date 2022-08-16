@@ -25,7 +25,7 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  </p>
 
-- 📫 How to reach me <a href="mailto: juangborghini@gmail.com">juangborghini@gmail.com</a>
+- 📫 How to reach me <a href="mailto: juangborghini@gmail.com">CLICK HERE!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
