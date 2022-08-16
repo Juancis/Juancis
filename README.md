@@ -8,11 +8,11 @@
 <img src="./image/PokeApiGitHub.jpg"/>
 <p>Poke App is a SPA (single page application) where we apply the knowledge learned in the SoyHenry bootcamp! Using technologies such as: React, Redux, NodeJS, Express, CSS, HTML, Sequelize and PostgreSQL.</p>
 
-<b>Game HUB</b>
+<b><a href="https://gamehub-chi.vercel.app/">Game HUB</a></b>
 <img src="./image/GamerHubGitHub.jpg"/>
 
-<p></p>
-
+<p>GameHUB is an e-commerce that was thought and designed for the purchase and sale of computer products, the page has different roles for navigation. "User" for the purchase of products, "Admin" for the administration of sales, stock and users. And "Owner" as the owner of the page.
+In which we use technologies such as React, Redux, TypeScript, Material-UI, pure Css for the FrontEnd, NodeJs, Express, Mongoose, Nodemailer, Stripe, MercadopagoDevelopers, Cloudinary, for the BackEnd and MongoDB for the database.</p>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
