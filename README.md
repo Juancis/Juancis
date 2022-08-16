@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Gomez Borghini</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina 🌟.</h3>
 <p align="center"><b> I am 30 years old Argentinian who loves video-games and technology. I am currently focused on full stack web development and learn new technologies to exploit them. This year, i rediscovered my passion for programming and achieved a full stack web develper certification.</b></p>
-
+<img src="./image/portada-background.jfif"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -24,4 +24,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/juangborghini-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juangborghini-js" height="30" width="40" /></a>
 </p>
-
