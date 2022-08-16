@@ -5,9 +5,11 @@
 <p align="center"><b> I am 30 years old Argentinian who loves video-games and technology. I am currently focused on full stack web development and learn new technologies to exploit them. This year, i rediscovered my passion for programming and achieved a full stack web develper certification.</b></p>
 <h3>Proyects</h3>
 <img src="./image/PokeApiGitHub.jpg"/>
-<p></p>
+<p>Poke App is a SPA (single page application) where we apply the knowledge learned in the SoyHenry bootcamp! Using technologies such as: React, Redux, NodeJS, Express, CSS, HTML, Sequelize and PostgreSQL.</p>
 
 <img src="./image/GamerHubGitHub.jpg"/>
+<p></p>
+
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,6 +26,7 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  </p>
+<hr/>
 
 - 📫 How to reach me <a href="mailto: juangborghini@gmail.com">CLICK HERE!</a>
 
