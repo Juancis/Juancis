@@ -3,9 +3,10 @@
 <h3 align="center">A passionate Full Stack Developer from Argentina 🌟.</h3>
 <hr/>
 <p align="center"><b> I am 30 years old Argentinian who loves video-games and technology. I am currently focused on full stack web development and learn new technologies to exploit them. This year, i rediscovered my passion for programming and achieved a full stack web develper certification.</b></p>
-<h3>Proyectos</h3>
+<h3>Proyects</h3>
 <img src="./image/PokeApiGitHub.jpg"/>
-###
+<p></p>
+
 <img src="./image/GamerHubGitHub.jpg"/>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +25,7 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  </p>
 
-- 📫 How to reach me <b>juangborghini@gmail.com</b>
+- 📫 How to reach me <a href="mailto: juangborghini@gmail.com">juangborghini@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
