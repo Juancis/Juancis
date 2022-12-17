@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from Argentina 🌟.</h3>
 <hr/>
 <p align="center"><b> I am 30 years old Argentinian who loves video-games and technology. I am currently focused on full stack web development and learn new technologies to exploit them. This year, i rediscovered my passion for programming and achieved a full stack web develper certification.</b></p>
-<h3>Proyects</h3>
+<h3>Projects</h3>
 <b><a href="https://pokemon-pi-six.vercel.app/" target="_blank">Poke App</a></b>
 <a href="https://pokemon-pi-six.vercel.app/" target="_blank"><img src="./image/PokeApiGitHub.jpg"/></a>
 <p>Poke App is a SPA (single page application) where we apply the knowledge learned in the SoyHenry bootcamp! Using technologies such as: React, Redux, NodeJS, Express, CSS, HTML, Sequelize and PostgreSQL.</p>
