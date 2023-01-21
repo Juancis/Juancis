@@ -11,8 +11,7 @@
 <b><a href="https://gamehub-chi.vercel.app/" target="_blank">Game HUB</a></b>
 <a href="https://gamehub-chi.vercel.app/" target="_blank"><img src="./image/GamerHubGitHub.jpg"/></a>
 
-<p> GameHUB is an e-commerce that was thought and designed for the purchase and sale of computer products, the page has different roles for navigation. "User" for the purchase of products, "Admin" for the administration of sales, stock and users. And "Owner" as the owner of the page.
-In which we use technologies such as React, Redux, TypeScript, Material-UI, pure Css for the FrontEnd, NodeJs, Express, Mongoose, Nodemailer, Stripe, MercadopagoDevelopers, Cloudinary, for the BackEnd and MongoDB for the database.</p>
+<p> GameHUB is an e-commerce platform designed for the purchase and sale of computer products. The website has different roles for navigation: "User" for purchasing products, "Admin" for managing sales, inventory, and users, and "Owner" for managing the website as the owner. We used technologies such as React, Redux, TypeScript, Material-UI, and pure CSS for the front-end, Node.js, Express, Mongoose, Nodemailer, Stripe, Mercadopago, Cloudinary for the back-end, and MongoDB for the database.</p>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" display="flex" justify-content="space-around">
