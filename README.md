@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Gomez Borghini</h1>
 <img src="./image/portada-background.jfif"/>
-<h3 align="center">A passionate Full Stack Developer from Argentina 🌟.</h3>
+<h3 align="center">A passionate Front-end Developer from Argentina 🌟.</h3>
 <hr/>
-<p align="start"><b> I am a 30-year-old Argentinian who loves video games and technology. I am currently focused on full-stack web development and learning new technologies to make the most of them. This year, I rediscovered my passion for programming and obtained a full-stack web developer certification.</b></p>
+<p align="start"><b> I am a 32-year-old Argentinian who loves video games and technology. I am currently focused on front-end web development and learning new technologies to make the most of them. I rediscovered my passion for programming and obtained a full-stack web developer certification.</b></p>
 <h3>Projects</h3>
 <b><a href="https://pokemon-pi-six.vercel.app/" target="_blank">Poke App</a></b>
 <a href="https://pokemon-pi-six.vercel.app/" target="_blank"><img src="./image/PokeApiGitHub.jpg"/></a>
