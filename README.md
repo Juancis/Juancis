@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Gomez Borghini</h1>
-<img src="./image/portada-background.jfif"/>
+<img src="./image/JsGithub.jfif"/>
 <h3 align="center">A passionate Front-end Developer from Argentina 🌟.</h3>
 <hr/>
 <p align="start"><b> I am a 32-year-old Argentinian who loves video games and technology. I am currently focused on front-end web development and learning new technologies to make the most of them. I rediscovered my passion for programming and obtained a full-stack web developer certification.</b></p>
