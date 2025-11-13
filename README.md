@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Front-end Developer from Argentina 🌟.</h3>
 <hr/>
 <p align="start"><b> I am a 32-year-old Argentinian who loves video games and technology. I am currently focused on front-end web development and learning new technologies to make the most of them. I rediscovered my passion for programming and obtained a full-stack web developer certification.</b></p>
+<div hidden>
 <h3>Projects</h3>
 <b><a href="https://pokemon-pi-six.vercel.app/" target="_blank">Poke App</a></b>
 <a href="https://pokemon-pi-six.vercel.app/" target="_blank"><img src="./image/PokeApiGitHub.jpg"/></a>
@@ -12,6 +13,7 @@
 <a href="https://gamehub-chi.vercel.app/" target="_blank"><img src="./image/GamerHubGitHub.jpg"/></a>
 
 <p> GameHUB is an e-commerce platform designed for the purchase and sale of computer products. The website has different roles for navigation: "User" for purchasing products, "Admin" for managing sales, inventory, and users, and "Owner" for managing the website as the owner. We used technologies such as React, Redux, TypeScript, Material-UI, and pure CSS for the front-end, Node.js, Express, Mongoose, Nodemailer, Stripe, Mercadopago, Cloudinary for the back-end, and MongoDB for the database.</p>
+</div>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
